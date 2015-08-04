@@ -1,0 +1,88 @@
+@CHARSET "ISO-8859-1";
+
+body
+{
+	    font-family: 'Open Sans', sans-serif;
+    color: #4e4e4e;
+    line-height: 22px;
+    
+    font-size: 14px;
+}
+.navbar-inverse
+{
+	border: none;
+	background-color: #222;
+    border-color: #080808;
+}
+
+.navbar
+{
+border-radius: 0;
+    margin-bottom: 0;
+    background: #151515;
+    padding: 15px 0;
+    padding-bottom: 0;
+}
+
+.navbar >.container .navbar-brand
+{
+	margin-left: 0;
+}
+.navbar-inverse .navbar-brand
+{
+	font-size: 36px;
+    line-height: 50px;
+    color: #fff;
+}
+.navbar-brand
+{
+	    padding: 0;
+    margin: 0;
+}
+
+    
+h1
+{
+	    font-size: 36px;
+    color: #fff;
+        font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-top: 0;
+    padding-bottom: 0;
+}
+
+.navbar-nav {
+    margin-top: 12px;
+}
+.navbar-nav>li {
+    margin-left: 35px;
+    padding-bottom: 28px;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    padding: 5px 12px;
+    margin: 0;
+    border-radius: 3px;
+    color: #fff;
+    line-height: 24px;
+    display: inline-block;
+}
+.navbar-inverse .navbar-nav > li > a:hover {
+    background-color: #c52d2f;
+    
+}
+.navbar-nav>li {
+    margin-left: 35px;
+    padding-bottom: 28px;
+}
+.navbar-inverse .navbar-nav .dropdown-menu > li:last-child > a {
+    border-radius: 0 0 3px 3px;
+}
+
+.navbar-inverse .navbar-nav .dropdown-menu > li > a {
+    padding: 8px 15px;
+    color: #fff;
+}

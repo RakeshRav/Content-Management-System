@@ -1,0 +1,35 @@
+@CHARSET "ISO-8859-1";
+
+
+#feature
+{
+	background-color:#FFFFFF; 
+	padding: 50px;
+}
+
+.about
+{
+	background-color:  #CDCECD;
+}
+
+.line
+{
+	height: 1px;
+	background-color: #000000;
+}
+
+
+.line1
+{
+	  height:2px;
+	  background-color: #D62525;
+}
+a:hover 
+{
+	text-decoration: none;
+}
+
+#setBack
+{
+	background-repeat: no-repeat;
+}
